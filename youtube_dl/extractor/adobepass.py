@@ -29,6 +29,13 @@ MSO_INFO = {
         'name': 'DIRECTV NOW',
         'username_field': 'email',
         'password_field': 'loginpassword',
+        
+    },   
+    'FRONTIER': {
+        'name': 'FRONTIER',
+        'username_field': 'username',
+        'password_field': 'password',
+
     },
     'Rogers': {
         'name': 'Rogers',
